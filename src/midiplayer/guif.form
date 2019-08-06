@@ -1,0 +1,1600 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="title" type="java.lang.String" value="Cyber BeatBox"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="103" alignment="0" groupAlignment="0" max="-2" attributes="0">
+                      <Component id="jLabel1" alignment="0" min="-2" pref="111" max="-2" attributes="0"/>
+                      <Component id="jLabel16" alignment="0" min="-2" pref="111" max="-2" attributes="0"/>
+                      <Component id="jLabel15" alignment="0" min="-2" pref="111" max="-2" attributes="0"/>
+                      <Component id="jLabel13" alignment="0" min="-2" pref="111" max="-2" attributes="0"/>
+                      <Component id="jLabel10" alignment="0" min="-2" pref="111" max="-2" attributes="0"/>
+                      <Component id="jLabel11" alignment="0" min="-2" pref="111" max="-2" attributes="0"/>
+                      <Component id="jLabel9" alignment="0" min="-2" pref="111" max="-2" attributes="0"/>
+                      <Component id="jLabel7" alignment="0" min="-2" pref="111" max="-2" attributes="0"/>
+                      <Component id="jLabel8" alignment="0" min="-2" pref="111" max="-2" attributes="0"/>
+                      <Component id="jLabel5" alignment="0" min="-2" pref="111" max="-2" attributes="0"/>
+                      <Component id="jLabel2" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jLabel4" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jLabel6" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jLabel12" alignment="0" max="32767" attributes="0"/>
+                  </Group>
+                  <Component id="jLabel14" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel3" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="103" alignment="0" groupAlignment="1" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <Component id="JC113" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC114" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC115" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC116" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC117" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC118" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC119" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC120" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC121" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC122" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC123" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC124" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC125" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC126" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC127" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC128" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Component id="JC1" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC2" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC3" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC4" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC5" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC6" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC7" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC8" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC9" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC10" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC11" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC12" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC13" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC14" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC15" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC16" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" attributes="0">
+                                      <Component id="JC17" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC18" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC19" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC20" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC21" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC22" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC23" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC24" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC25" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC26" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC27" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC28" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC29" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC30" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC31" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC32" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" attributes="0">
+                                      <Component id="JC33" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC34" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC35" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC36" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC37" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC38" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC39" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC40" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC41" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC42" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC43" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC44" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC45" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC46" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC47" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC48" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" attributes="0">
+                                      <Component id="JC97" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC98" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC99" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC100" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC101" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC102" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC103" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC104" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC105" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC106" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC107" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC108" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC109" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC110" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC111" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="JC112" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Component id="JC145" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC146" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC147" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC148" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC149" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC150" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC151" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC152" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC153" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC154" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC155" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC156" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC157" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC158" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC159" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC160" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Component id="JC129" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC130" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC131" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC132" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC133" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC134" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC135" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC136" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC137" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC138" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC139" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC140" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC141" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC142" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC143" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="JC144" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <Component id="JC161" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC162" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC163" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC164" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC165" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC166" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC167" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC168" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC169" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC170" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC171" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC172" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC173" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC174" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC175" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC176" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="JC177" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC178" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC179" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC180" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC181" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC182" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC183" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC184" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC185" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC186" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC187" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC188" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC189" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC190" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC191" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC192" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="JC193" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC194" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC195" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC196" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC197" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC198" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC199" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC200" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC201" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC202" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC203" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC204" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC205" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC206" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC207" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC208" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="JC209" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC210" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC211" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC212" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC213" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC214" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC215" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC216" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC217" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC218" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC219" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC220" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC221" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC222" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC223" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC224" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="JC225" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC226" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC227" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC228" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC229" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC230" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC231" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC232" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC233" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC234" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC235" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC236" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC237" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC238" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC239" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC240" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace pref="89" max="32767" attributes="0"/>
+                      <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Component id="JC49" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC50" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC51" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC52" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC53" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC54" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC55" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC56" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC57" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC58" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC59" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC60" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC61" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC62" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC63" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC64" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="JC81" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC82" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC83" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC84" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC85" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC86" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC87" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC88" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC89" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC90" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC91" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC92" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC93" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC94" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC95" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC96" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="JC65" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC66" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC67" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC68" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC69" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC70" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC71" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC72" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC73" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC74" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC75" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC76" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC77" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC78" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC79" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC80" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <Component id="JC241" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC242" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC243" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC244" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC245" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC246" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC247" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC248" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC249" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC250" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC251" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC252" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC253" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC254" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC255" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="JC256" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace pref="26" max="32767" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="1" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                                              <Component id="jLabel1" alignment="3" min="-2" pref="26" max="-2" attributes="0"/>
+                                              <Component id="JC1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Component id="JC2" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="JC3" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="JC4" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="JC5" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="JC6" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="JC7" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="JC8" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="JC9" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="JC10" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="JC11" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="JC12" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="JC13" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="JC14" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="JC15" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="JC16" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="jLabel2" min="-2" pref="26" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="JC17" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="JC18" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="JC19" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="JC20" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="JC21" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="JC22" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="JC23" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="JC24" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="JC25" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="JC26" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="JC27" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="JC28" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="JC29" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="JC30" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="JC31" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="JC32" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jLabel4" min="-2" pref="26" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="JC33" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC34" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC35" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC36" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC37" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC38" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC39" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC40" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC41" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC42" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC43" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC44" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC45" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC46" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC47" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC48" alignment="0" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jLabel3" min="-2" pref="26" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="JC49" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC50" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC51" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC52" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC53" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC54" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC55" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC56" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC57" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC58" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC59" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC60" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC61" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC62" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC63" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC64" alignment="0" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jLabel6" min="-2" pref="26" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="JC65" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC66" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC67" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC68" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC69" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC70" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC71" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC72" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC73" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC74" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC75" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC76" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC77" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC78" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC79" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="JC80" alignment="0" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jLabel5" alignment="0" min="-2" pref="26" max="-2" attributes="0"/>
+                          <Component id="JC81" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="JC82" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="JC83" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="JC84" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="JC85" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="JC86" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="JC87" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="JC88" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="JC89" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="JC90" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="JC91" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="JC92" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="JC93" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="JC94" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="JC95" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="JC96" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jLabel8" alignment="0" min="-2" pref="26" max="-2" attributes="0"/>
+                          <Component id="JC97" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="JC98" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="JC99" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="JC100" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="JC101" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="JC102" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="JC103" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="JC104" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="JC105" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="JC106" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="JC107" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="JC108" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="JC109" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="JC110" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="JC111" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="JC112" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="208" max="-2" attributes="0"/>
+                      <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jLabel7" alignment="0" min="-2" pref="26" max="-2" attributes="0"/>
+                  <Component id="JC113" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC114" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC115" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC116" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC117" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC118" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC119" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC120" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC121" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC122" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC123" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC124" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC125" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC126" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC127" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC128" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jLabel9" alignment="0" min="-2" pref="26" max="-2" attributes="0"/>
+                  <Component id="JC129" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC130" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC131" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC132" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC133" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC134" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC135" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC136" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC137" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC138" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC139" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC140" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC141" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC142" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC143" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC144" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jLabel11" alignment="0" min="-2" pref="26" max="-2" attributes="0"/>
+                  <Component id="JC145" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC146" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC147" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC148" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC149" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC150" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC151" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC152" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC153" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC154" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC155" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC156" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC157" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC158" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC159" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC160" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jLabel10" alignment="0" min="-2" pref="26" max="-2" attributes="0"/>
+                  <Component id="JC161" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC162" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC163" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC164" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC165" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC166" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC167" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC168" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC169" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC170" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC171" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC172" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC173" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC174" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC175" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC176" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jLabel13" alignment="0" min="-2" pref="26" max="-2" attributes="0"/>
+                  <Component id="JC177" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC178" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC179" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC180" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC181" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC182" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC183" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC184" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC185" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC186" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC187" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC188" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC189" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC190" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC191" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC192" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="JC193" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC194" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC195" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC196" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC197" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC198" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC199" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC200" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC201" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC202" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC203" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC204" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC205" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC206" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC207" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC208" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel12" min="-2" pref="26" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jLabel15" alignment="0" min="-2" pref="26" max="-2" attributes="0"/>
+                  <Component id="JC209" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC210" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC211" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC212" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC213" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC214" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC215" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC216" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC217" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC218" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC219" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC220" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC221" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC222" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC223" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC224" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="JC225" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC226" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC227" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC228" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC229" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC230" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC231" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC232" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC233" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC234" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC235" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC236" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC237" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC238" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC239" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC240" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel14" min="-2" pref="26" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jLabel16" min="-2" pref="26" max="-2" attributes="0"/>
+                  <Component id="JC241" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC242" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC243" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC244" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC245" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC246" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC247" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC248" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC249" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC250" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC251" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC252" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC253" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC254" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC255" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="JC256" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Bass Drum"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Closed Hi-Hat"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Acoustic Snare"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel4">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Open Hi-Hat"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel5">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Hand Clap"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel6">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Crash Cymbal"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel7">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="HI Bongo"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel8">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Maracas"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel9">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Whistle"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel10">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Cowbell"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel11">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Low Conga"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel12">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Low-mid Tom"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel13">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Vibraslap"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel14">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Open HI Conga"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel15">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="High Agogo"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel16">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Bass Drum"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC1">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC2">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC3">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC4">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC5">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC6">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC7">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC8">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC9">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC10">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC11">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC12">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC13">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC14">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC15">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC16">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC17">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC18">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC19">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC20">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC21">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC22">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC23">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC24">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC25">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC26">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC27">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC28">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC29">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC30">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC31">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC32">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC33">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC34">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC35">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC36">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC37">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC38">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC39">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC40">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC41">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC42">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC43">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC44">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC45">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC46">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC47">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC48">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC49">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC50">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC51">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC52">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC53">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC54">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC55">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC56">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC57">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC58">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC59">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC60">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC61">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC62">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC63">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC64">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC65">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC66">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC67">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC68">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC69">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC70">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC71">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC72">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC73">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC74">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC75">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC76">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC77">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC78">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC79">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC80">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC81">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC82">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC83">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC84">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC85">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC86">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC87">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC88">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC89">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC90">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC91">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC92">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC93">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC94">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC95">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC96">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC97">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC98">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC99">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC100">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC101">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC102">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC103">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC104">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC105">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC106">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC107">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC108">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC109">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC110">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC111">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC112">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC113">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC114">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC115">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC116">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC117">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC118">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC119">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC120">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC121">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC122">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC123">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC124">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC125">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC126">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC127">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC128">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC129">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC130">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC131">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC132">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC133">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC134">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC135">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC136">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC137">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC138">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC139">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC140">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC141">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC142">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC143">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC144">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC145">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC146">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC147">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC148">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC149">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC150">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC151">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC152">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC153">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC154">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC155">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC156">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC157">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC158">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC159">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC160">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC161">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC162">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC163">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC164">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC165">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC166">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC167">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC168">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC169">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC170">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC171">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC172">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC173">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC174">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC175">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC176">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC177">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC178">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC179">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC180">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC181">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC182">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC183">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC184">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC185">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC186">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC187">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC188">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC189">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC190">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC191">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC192">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC193">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC194">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC195">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC196">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC197">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC198">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC199">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC200">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC201">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC202">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC203">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC204">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC205">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC206">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC207">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC208">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC209">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC210">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC211">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC212">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC213">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC214">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC215">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC216">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC217">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC218">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC219">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC220">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC221">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC222">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC223">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC224">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC225">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC226">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC227">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC228">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC229">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC230">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC231">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC232">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC233">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC234">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC235">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC236">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC237">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC238">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC239">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC240">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC241">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC242">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC243">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC244">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC245">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC246">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC247">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC248">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC249">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC250">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC251">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC252">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC253">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC254">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC255">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="JC256">
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="start"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
